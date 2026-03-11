@@ -1,0 +1,5 @@
+{
+  "name": "Phiroz Super App",
+  "description": "A multi-purpose marketplace, logistics, and services platform for Zambia.",
+  "requestFramePermissions": ["geolocation"]
+}
